@@ -1,3 +1,6 @@
 # Exclude GA Sample Folder
 **/SAMP*
 
+# Exclude GA Tracking Code used for tests
+**/include
+
